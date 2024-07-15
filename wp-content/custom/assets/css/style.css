@@ -1,0 +1,16 @@
+.custom__partenaires {
+    text-align: center;
+    display: block;
+}
+
+.custom__partenaire {
+    display: inline-block;
+    vertical-align: middle;
+    margin: auto;
+}
+
+.custom__partenaires img {
+    max-width: 200px;
+    width: 100%;
+    padding: 0 10px;
+}
